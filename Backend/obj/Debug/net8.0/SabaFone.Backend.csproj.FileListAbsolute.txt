@@ -1,0 +1,9 @@
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.csproj.AssemblyReference.cache
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.AssemblyInfoInputs.cache
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.AssemblyInfo.cs
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.csproj.CoreCompileInputs.cache
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dxnzo\Documents\SabaFone-SSAS\SabaFone.Backend\obj\Debug\net8.0\SabaFone.Backend.MvcApplicationPartsAssemblyInfo.cache
